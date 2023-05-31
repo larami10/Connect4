@@ -11,8 +11,32 @@ A simple Connect 4 game in JavaFX. It has the following features:
 
 You can clone the repository and:
 
-### Setup Eclipse Project
+### Linux / Mac / Windows PowerShell
 
-1. Import project
-2. Add Java FX (https://www.youtube.com/watch?v=_7OM-cMYWbQ)
-3. Run project in Eclipse
+If you run on Linux, Mac or Windows PowerShell; follow these steps:
+
+```
+cd Connect4
+```
+
+To run the project:
+
+```
+./gradlew run
+```
+
+### Windows Command Prompt
+
+If you run on Windows, follow these steps:
+
+```
+cd Connect4
+```
+
+To run the project:
+
+```
+gradlew run
+```
+
+> **_NOTE:_** Your terminal may show an "80% Executing" bar, but is waiting on user input. Enter "C" to play on terminal or "G" to play on GUI.
