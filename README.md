@@ -25,6 +25,8 @@ To run the project:
 ./gradlew run
 ```
 
+> **_NOTE:_** Your terminal may show an "80% Executing" bar, but is waiting on user input. Enter "C" to play on terminal or "G" to play on GUI.
+
 ### Windows Command Prompt
 
 If you run on Windows, follow these steps:
